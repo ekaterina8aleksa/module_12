@@ -1,1 +1,2 @@
-import './styles.css';
+import './js/renderInfo';
+import './sass/styles.scss';
