@@ -8,7 +8,7 @@ PNotify.defaults.icons = 'material';
 
 import { dropdown, inputSearch, infoContainer } from './refs';
 
-import fetchCountries from '../js/fetchCountries';
+import fetchCountries from './fetchCountries';
 
 import countryInfo from '../tmpl/countryInfo.hbs';
 import dropdownItem from '../tmpl/dropdown.hbs';
